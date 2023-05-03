@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BamzGod
+- 👋 Hi, I’m Mu'iz
 - 👀 I’m interested in Information Technology and software engineering. 
 - 🌱 I’m currently learning software engineering at ALX SE programme.
 - 💞️ I’m looking to collaborate with IT specialists and software developers. 
